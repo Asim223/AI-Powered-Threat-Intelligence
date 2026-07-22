@@ -1,5 +1,3 @@
-# ThrearFusion-AI : AI-Powered-Threat-Intelligence-
-
 # ThreatFusion AI — Capstone Report (AICS-107)
 
 This repository contains the capstone report submitted for **AICS-107: AI-Powered Threat Intelligence (Advanced)**, part of the ICDFA AI-Driven Cybersecurity & Digital Forensics Fellowship.
